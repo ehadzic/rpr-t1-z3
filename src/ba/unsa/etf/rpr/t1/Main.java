@@ -47,8 +47,6 @@ public class Main {
                 System.out.println(sati+":"+minute+":"+sekunde);
             }
         }
-
-
             Sat s= new Sat(15,30,45);
             s.Ispisi();
             s.Sljedeci();
